@@ -16,15 +16,16 @@
 .left-block-in-cart {
     width: 50%;
     height: 100%;
+    margin-left: 12%;
 }
 
 .img-in-product-cart {
-    height: 300px;
+    height: 400px;
 }
 
 .add-item {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 .kol {
@@ -65,7 +66,7 @@
 
 #incart1 {
     width: auto;
-    height: 700px;
+    height: 400px;
     overflow-y: scroll;
     scrollbar-color: rebeccapurple green;
     scrollbar-width: thin;

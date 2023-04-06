@@ -29,8 +29,8 @@
 }
 
 .card-img {
-    height: 700px;
-    width: 550px;
+    height: 400px;
+    width: 50px;
 }
 
 .right-block {
@@ -45,7 +45,7 @@
 
 .product-discription {
     margin-left: 10px;
-    height: 450px;
+    height: 200px;
     overflow-y: scroll;
     scrollbar-color: rebeccapurple green;
     scrollbar-width: thin;
